@@ -2,9 +2,9 @@
 title: About
 date: 2020-10-09 16:43:28
 ---
-<div class="center mb-3">
-  <img src="/images/epic-smiley.jpg" width="150" height="150" style="border-radius: 50%;"  />
-</div>
+
+
+{% img "about center mb-3" "/images/epic-smiley.jpg" %}
 
 ##### Hi, I am Adi Sakti Jrs
 A student and web developer from Indonesia 🇮🇩

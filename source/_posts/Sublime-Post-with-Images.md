@@ -1,7 +1,7 @@
 ---
 title: Sublime Post with Images
 date: 2020-10-09 17:24:45
-tags: [Beauty]
+tags: [Beauty, Example]
 thumbnail: nordgreen-Iqc4WR1TNp0-unsplash.jpg
 ---
 {% asset_img nordgreen-Iqc4WR1TNp0-unsplash.jpg Warm life %}

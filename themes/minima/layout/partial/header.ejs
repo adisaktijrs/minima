@@ -15,7 +15,7 @@
   <div class="twelve columns">
     <div class="row">
       <div class="nine columns left">
-        <a href="/" class="link">Home</a>
+        <a href="<%= config.root %>" class="link">Home</a>
         <% for (name in theme.menu) { %>
           <a href="<%- url_for(theme.menu[name]) %>" class="ml link"><%- name %></a>
         <% } %>
