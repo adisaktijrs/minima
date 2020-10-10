@@ -89,6 +89,12 @@ img {
   margin-right: 10px;
 }
 
+.about {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%
+}
+
 /* blockquote */
 blockquote {
   font-family: 'Inter';
