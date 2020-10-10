@@ -20,7 +20,13 @@
         <p class="bottom"><%- full_date(item.date, 'll') %></p>
       </div>
       <div class="nine columns left mb-3">
-        <a href="<%- url_for(item.path) %>" class=""><%- item.title %></a>
+        <a href="<%- url_for(item.path) %>" class="">
+          <% if (item.title == "") { %>
+            no title
+          <% } else { %>
+            <%- item.title %>
+          <% } %>
+        </a>
       </div>
     </div>
   </article>
