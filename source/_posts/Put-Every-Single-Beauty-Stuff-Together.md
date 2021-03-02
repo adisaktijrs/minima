@@ -8,10 +8,10 @@ thumbnail: oliver-hae-h3pU3m-Eduk-unsplash.jpg
 {% asset_img oliver-hae-h3pU3m-Eduk-unsplash.jpg Minimalist concept  %}
 Photo by Oliver Hae on Unsplash
 
-##### This is H5 Headline
+### This is H3 Headline
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sollicitudin ac orci phasellus egestas tellus. Netus et malesuada fames ac turpis. Urna id volutpat lacus laoreet non curabitur. Vulputate mi sit amet mauris commodo quis imperdiet massa. Condimentum lacinia quis vel eros donec. At in tellus integer feugiat scelerisque varius morbi enim nunc.
 
-##### You Can Insert Code!
+### You Can Insert Code!
 Netus et malesuada fames ac turpis. Urna id volutpat lacus laoreet non curabitur. Vulputate mi sit amet mauris commodo quis imperdiet massa. Condimentum lacinia quis vel eros donec. At in tellus integer feugiat scelerisque varius morbi enim nunc.
 
 {% codeblock lang:js %}
@@ -30,20 +30,20 @@ app.listen(port, () => {
 
 Netus et malesuada fames ac turpis. Urna id volutpat lacus laoreet non curabitur. Vulputate mi sit amet mauris commodo quis imperdiet massa.
 
-##### Inspire Other with Quote
+### Inspire Other with Quote
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sollicitudin ac orci phasellus egestas tellus.
 
-###### Plain Quote
+### Plain Quote
 {% blockquote %}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque hendrerit lacus ut purus iaculis feugiat. Sed nec tempor elit, quis aliquam neque. Curabitur sed diam eget dolor fermentum semper at eu lorem.
 {% endblockquote %}
 
-###### Quote with Author
+### Quote with Author
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sollicitudin ac orci phasellus egestas tellus.
 
 {% blockquote David Levithan, Wide Awake %}
 Do not just seek happiness for yourself. Seek happiness for all. Through kindness. Through mercy.
 {% endblockquote %}
 
-##### Need More? Check Out Our GitHub Repo!
+### Need More? Check Out Our GitHub Repo!
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sollicitudin ac orci phasellus egestas tellus. Netus et malesuada fames ac turpis. Urna id volutpat lacus laoreet non curabitur. Vulputate mi sit amet mauris commodo quis imperdiet massa. Condimentum lacinia quis vel eros donec. At in tellus integer feugiat scelerisque varius morbi enim nunc.

@@ -1,5 +1,5 @@
 ---
-title: Unexceptional Code Example
+title: Exceptional Code Example
 date: 2020-10-09 17:24:26
 tags: [Example]
 thumbnail:
@@ -7,7 +7,7 @@ thumbnail:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sollicitudin ac orci phasellus egestas tellus. Netus et malesuada fames ac turpis. Urna id volutpat lacus laoreet non curabitur. Vulputate mi sit amet mauris commodo quis imperdiet massa. Condimentum lacinia quis vel eros donec. At in tellus integer feugiat scelerisque varius morbi enim nunc.
 
-##### You Can Insert Your Beauty Code!
+### You Can Insert Your Beauty Code!
 Netus et malesuada fames ac turpis. Urna id volutpat lacus laoreet non curabitur. Vulputate mi sit amet mauris commodo quis imperdiet massa. Condimentum lacinia quis vel eros donec. At in tellus integer feugiat scelerisque varius morbi enim nunc.
 
 {% codeblock lang:js %}
@@ -25,7 +25,7 @@ function Human (firstName, lastName, age) {
 
 Netus et malesuada fames ac turpis. Urna id volutpat lacus laoreet non curabitur. Vulputate mi sit amet mauris commodo quis imperdiet massa.
 
-##### Inspire Other with Code
+### Inspire Other with Code
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sollicitudin ac orci phasellus egestas tellus.
 
 {% codeblock lang:js %}
@@ -40,5 +40,5 @@ app.get("/auth/google/secrets",
 {% endcodeblock %}
 
 
-##### Need More? Check Out Our GitHub Repo!
+### Need More? Check Out Our GitHub Repo!
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sollicitudin ac orci phasellus egestas tellus. Netus et malesuada fames ac turpis. Urna id volutpat lacus laoreet non curabitur. Vulputate mi sit amet mauris commodo quis imperdiet massa. Condimentum lacinia quis vel eros donec. At in tellus integer feugiat scelerisque varius morbi enim nunc.

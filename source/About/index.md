@@ -6,10 +6,10 @@ date: 2020-10-09 16:43:28
 
 {% img "about center mb-3" "/images/epic-smiley.jpg" %}
 
-##### Hi, I am Adi Sakti Jrs
+## Hi, I am Adi Sakti Jrs
 A student and web developer from Indonesia 🇮🇩
 
-###### Lorem Ipsum
+### Lorem Ipsum
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sollicitudin ac orci phasellus egestas tellus. Netus et malesuada fames ac turpis. Urna id volutpat lacus laoreet non curabitur. Vulputate mi sit amet mauris commodo quis imperdiet massa. Condimentum lacinia quis vel eros donec. At in tellus integer feugiat scelerisque varius morbi enim nunc.
 
 {% blockquote %}
@@ -34,7 +34,7 @@ app.listen(port, () => {
 
 Lacus vel facilisis volutpat est. Fermentum et sollicitudin ac orci phasellus egestas tellus rutrum tellus. Vitae turpis massa sed elementum. Proin sed libero enim sed. Dolor morbi non arcu risus quis varius quam.
 
-###### Dolor Sit Amet
+### Dolor Sit Amet
 Pharetra vel turpis nunc eget lorem dolor sed. Sapien et ligula ullamcorper malesuada proin. Purus faucibus ornare suspendisse sed nisi. Consequat semper viverra nam libero justo. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Bibendum at varius vel pharetra vel turpis nunc eget lorem. Vitae turpis massa sed elementum tempus egestas sed sed. Fames ac turpis egestas integer eget aliquet. In nisl nisi scelerisque eu. Donec et odio pellentesque diam volutpat.
 
 {% blockquote David Levithan, Wide Awake %}
